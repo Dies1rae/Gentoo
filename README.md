@@ -1,7 +1,7 @@
 # Gentoo
-# Simple repo with hardware configs, scripts and hacks for 
-# different linux build and especially for Gentoo
-# made by SENSENET
+Simple repo with hardware configs, scripts and hacks for 
+different linux build and especially for Gentoo
+# Made by SENSENET
 
 # TODO
-# Summary about scripts:
+Summary about scripts:
