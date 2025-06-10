@@ -2,6 +2,8 @@
 # Automatically generated file; DO NOT EDIT.
 # Linux/x86 6.12.21-gentoo Kernel Configuration
 #
+# Sensenet config Lenovo ThinPad Carbon X1 gen6-gen8 kernel 6.12.21-gentoo-x86_64
+#
 CONFIG_CC_VERSION_TEXT="x86_64-pc-linux-gnu-gcc (Gentoo 14.3.0 p8) 14.3.0"
 CONFIG_CC_IS_GCC=y
 CONFIG_GCC_VERSION=140300
